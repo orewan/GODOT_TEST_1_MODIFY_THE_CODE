@@ -1,7 +1,7 @@
 extends Node2D
 
-var a = 5
-var b = 8
+var a = 25
+var b = 17
 # Called when the node enters the scene tree for the first time.
 func _ready():
 	var result = a+b
